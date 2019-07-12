@@ -99,6 +99,32 @@ nav a:hover {
     color: rgb(114, 37, 37);
 }
 
+.cta-content{
+    border-bottom: 2px dashed black;
+    margin-bottom: 5%;
+}
+
+.cta-text{
+    padding: 20px;
+}
+
+.middle-content{
+    display:flex;
+    width: 90%;
+    flex-wrap: wrap;
+}
+
+.bottom-content{
+    padding: 20px;
+}
+
+button{
+    margin: 5% 5% 5% 0%;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: 2px black solid;
+    font-size: 16px;
+}
 
 footer {
     width: 100%;
