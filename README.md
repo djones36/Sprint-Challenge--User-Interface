@@ -33,15 +33,25 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say? 
-Sematic Html is the 
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+Semantic is when you mark up your code with tags that display the meaning of the content to the developer or a screen reader ada device.  
+
+2. Name two big differences between ```display: block;``` and ```display: inline;```
+The two big differences between ```display: block;``` and ```display: inline;``` is that display block items will take up as much space as possible and create a line break, whereas inline items will not create a line break but can be nested with other content with out impacting the flow of content. The other big difference is that block elements can make use of height and width to change its size and inline cannot. 
+
 
 3. What are the 4 areas of the box model?
 
+The 4 areas of the box model are width and height, padding, margin, and border.
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+This property works on by centering the items along the cross-axis.
+
 5. Explain why git is valuable to a team of developers.
+
+THe value git brings to a team of developers is that it allow them to create speerate copies of the master code from a project to be edited in a non destructive manner. A developer can commit changes to the cloud. safely backing them up and allowing team members to review it. Git grants safe gaurds for data and transparency to any changes.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
