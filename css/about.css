@@ -128,6 +128,10 @@ nav a:hover {
     border-bottom: 2px dashed black;
 }
 
+.middle-content .child .grandchild img{
+    padding-bottom: 10px;
+}
+
 .bottom-content{
     padding: 20px;
 }
