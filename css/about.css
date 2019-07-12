@@ -66,10 +66,11 @@ p {
     line-height: 1.4;
 }
 
-.container {
+.container-about{
     width: 800px;
     margin: 0 auto;
 }
+
 header{
     display:flex;
     align-items: baseline;
