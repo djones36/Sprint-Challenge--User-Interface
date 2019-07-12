@@ -66,6 +66,10 @@ p {
     line-height: 1.4;
 }
 
+h2{
+    font-weight: bold;
+}
+
 .container-about{
     width: 800px;
     margin: 0 auto;
@@ -109,9 +113,19 @@ nav a:hover {
 }
 
 .middle-content{
-    display:flex;
-    width: 90%;
+    width: 100%;
+}
+
+.middle-content .child{
+    display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.middle-content .child .grandchild{
+    width: 45%;
+    margin: 2%;
+    border-bottom: 2px dashed black;
 }
 
 .bottom-content{
